@@ -1,0 +1,1 @@
+Simply place these two files in your Source folder, compile, then place your new Set Morph Target node. You can use linear curves, quadratic, cubic in/out, sine in/out, back out, elastic out (spring), and bounce out. You can also set the direction 0->1 (Closed to open for example), and vice versa. You can also set the duration of the animated morph target.
